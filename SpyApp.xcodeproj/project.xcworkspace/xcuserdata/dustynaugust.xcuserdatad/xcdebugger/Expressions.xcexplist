@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CipherFactory.cipher(for:):CipherFactory.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SpyAppViewController.cipherButtonPressed(_:):SpyAppViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cipher">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AlphanumericCesarCipher.encode(_:secret:):Cipher.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(character)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SpyAppViewController.encodeButtonPressed(_:):SpyAppViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cipher.cipherName">
+            </PersistentString>
+            <PersistentString
+               value = "self.input.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.secret.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
